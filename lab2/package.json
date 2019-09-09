@@ -1,0 +1,32 @@
+{
+  "name": "lab2_cs_554",
+  "version": "1.0.0",
+  "description": "lab2",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "build": "gulp build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sanchita_rastogi_10439951_cs-554",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.0",
+    "handlebars": "^4.1.0"
+  },
+  "devDependencies": {
+    "bootstrap": "^4.3.1",
+    "gulp": "^4.0.0",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-clean-css": "^4.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^5.0.3",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.4",
+    "jquery": "^3.3.1",
+    "tether": "^1.4.5"
+  }
+}

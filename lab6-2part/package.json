@@ -1,0 +1,20 @@
+{
+	"name": "lab_6_cs-554",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node index.js"
+	},
+	"keywords": [],
+	"author": "rastogi_sanchita_10939951_cs-554",
+	"license": "ISC",
+	"dependencies": {
+		"apollo-server": "^2.4.8",
+		"axios": "^0.18.0",
+		"graphql": "^14.2.1",
+		"lodash": "^4.17.11",
+		"node-uuid": "^1.4.8"
+	}
+}
